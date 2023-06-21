@@ -32,7 +32,7 @@ The REST API to the example app is described below.
 ### Response
 
     HTTP/1.1 200 OK
-    Date: Thu, 24 Feb 2011 12:36:30 GMT
+    Date: Tue, 20 Jun 2023 12:36:30 GMT
     Status: 200 OK
     Connection: close
     Content-Type: application/json
@@ -57,7 +57,7 @@ The REST API to the example app is described below.
 ### Response
 
     HTTP/1.1 201 Created
-    Date: Thu, 24 Feb 2011 12:36:30 GMT
+    Date: Tue, 20 Jun 2023 12:36:30 GMT
     Status: 201 Created
     Connection: close
     Content-Type: application/json
